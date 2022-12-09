@@ -6,6 +6,8 @@ hello there
 
 🍁 Favo Tecnologia
 
+Take a look at my projects and what they're about on my [personal portfolio at: (slpup.co)]
+
 look at... stay curious, question! re-think -> develop something meaningful, repeat.
 
 <!---
