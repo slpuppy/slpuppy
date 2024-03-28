@@ -6,9 +6,9 @@ hello there
 
 🍁 Favo Tecnologia
 
-Take a look at my projects and what they're about on my [personal portfolio](http://slpup.co)
+Take a look at my projects and what they're about on my [personal portfolio](http://slpdevelopment.com)
 
-[look at... stay curious, question! re-think -> develop something meaningful, repeat.](http://slpup.co)
+[look at... stay curious, question! re-think -> develop something meaningful, repeat.](http://slpdevelopment.com)
 
 
 <!---
