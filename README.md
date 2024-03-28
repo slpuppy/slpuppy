@@ -4,8 +4,6 @@ hello there
 
 📖 Apple Developer Academy
 
-🗓️ InEvent
-
 🍁 Favo Tecnologia
 
 Take a look at my projects and what they're about on my [personal portfolio](http://slpup.co)
