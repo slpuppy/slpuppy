@@ -1,12 +1,8 @@
 hello there
 
-🍏 iOS Development and UX/UI Design
+🍏 App Development and UX/UI Design
 
 📖 Apple Developer Academy
-
-Take a look at my projects and what they're about on my [personal portfolio](http://slpdevelopment.com)
-
-[look at... stay curious, question! re-think -> develop something meaningful, repeat.](http://slpdevelopment.com)
 
 
 <!---
